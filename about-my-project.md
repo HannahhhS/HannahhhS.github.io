@@ -1,8 +1,8 @@
 ## About My Project
 
-mBot Neo
+Queryable Computer Vision Pipeline for Traffic Video Analysis
 
-Problem: There is a lack of reasearch focusing on exploring ways to build educational software that integrates physical robots and physiological sensors. 
+Problem: Exporing how Traffic video footage can be analyzed using OpenCV libraries and YOLO. 
 
 Approach: During this project, I will assist a team in designing a system that accomplishes the following:
 
