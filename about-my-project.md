@@ -6,9 +6,9 @@ Problem: Exporing how Traffic video footage can be analyzed using OpenCV librari
 
 Approach: During this project, I will assist a team in designing a system that accomplishes the following:
 
-  - Capture physiological data such as EEG and EMG from the human body.
-  - Process raw sensor data and classify events such as gestures (e.g., arm movements) and emotional states (e.g., attention levels)
-  - Map output from physiological sensors to a physical robot. 
+  - Analyze video footage using the OpenCV Computer Vision tools in python
+  - Use YOLO to analyze objects from the video feed, assign tracking numbers, and understand the objects behavior
+  - Analyze and understand the collected data using mySQL.
 
 Expected Outcome: The project is expected to result in a conference poster presentation at the end of the DREU program. The poster will focus on the system's technical architecture.
 
