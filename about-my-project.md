@@ -10,6 +10,5 @@ Approach: During this project, I will work in a team in designing a system that 
   - Use YOLO to analyze objects from the video feed, assign tracking numbers, and understand the objects behavior
   - Analyze and understand the collected data using mySQL.
 
-Expected Outcome: The project is expected to result in a conference poster presentation at the end of the DREU program. The poster will focus on the system's technical architecture.
 
 
