@@ -1,1 +1,1 @@
-This week, 
+This week, my team and I worked on implementing multiple ROI regions as well as jaywalking detection. We first understood the logic and the criteria for understanding a Jaywalker. The criteria that needs to be met incude the person being inside the bounds of the ROI, as well as the light being green. We were able to sucessfully understand this logic and implement it. I ran into a few issues as sometimes the text was being displayed improperly and on the wrong frame. We also did research on the GPU vs CPU and how that would impact our project
