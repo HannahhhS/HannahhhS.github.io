@@ -1,1 +1,1 @@
-This week, I 
+This week, I worked on performing advanced sql queries and adding to the framework. I worked on implementing the tracker ID column as well as the time column. I faced challenges with the time column as I had to find how to properly update the time with minutes and seconds. 
